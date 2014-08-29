@@ -1,10 +1,5 @@
 
 # Tryton en Cooperativas
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+## 4to Encuentro de Software Libre y Economia Social
+### Rosario, Agosto de 2014
