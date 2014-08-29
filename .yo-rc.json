@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Tryton en Cooperativas",
+    "packageVersion": "0.0.0",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "mbenedettini",
+    "githubRepository": "tryton-slides-4to-encuentro"
+  }
+}
